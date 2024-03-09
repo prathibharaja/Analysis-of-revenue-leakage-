@@ -1,2 +1,1 @@
-# Analysis-of-revenue-leakage-
-This analysis focus on third-party and subcontracted orders to identify weaknesses in the shipment process.
+Welcome to my personal GitHub repository! Here, you'll find the code of analysis of revenue leakage. I develop this code during my time at MAS Intimates. I want to take a moment to clarify that the code shared here has been obtained with the full consent and support of my company. It contains no sensitive information or proprietary secrets, and every line of code was crafted by my own hands and the idea.
